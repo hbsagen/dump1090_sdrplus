@@ -27,6 +27,8 @@ This is a fork of Salvatore Sanfilippo's [original dump1090](https://github.com/
 with additional [HackRF](https://github.com/mossmann/hackrf) and
 [AirSpy](https://github.com/airspy/) support.
 
+In addition timestamps and some other tweaks are added.
+
 Installation
 ---
 
